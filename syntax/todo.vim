@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language: todo
 " Maintainer: Jeanne
-" Latest Revision: 02 July 2015
+" Latest Revision: 12 Apr 2023
 
 if exists("b:current_syntax")
   finish
